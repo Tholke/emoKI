@@ -2,7 +2,7 @@
 Emotionserkennung in Bildern mit Python und OpenCV
 
 
-Mitglieder:<br>
+<h3>Mitglieder:</h3>
 Ho Yee Lau: hlau1@smail.uni-koeln.de<br>
 Carolina Lins C A C Machado: clinscos@smail.uni-koeln.de<br>
 Thomas Oehlke: toehlke@smail.uni-koeln.de<br>
