@@ -2,15 +2,15 @@
 Emotionserkennung in Bildern mit Python und OpenCV
 
 
-Mitglieder:
-Ho Yee Lau: hlau1@smail.uni-koeln.de
-Carolina Lins C A C Machado: clinscos@smail.uni-koeln.de
-Thomas Oehlke: toehlke@smail.uni-koeln.de
-Liana Willach: liana86@web.de
+Mitglieder:<br>
+Ho Yee Lau: hlau1@smail.uni-koeln.de<br>
+Carolina Lins C A C Machado: clinscos@smail.uni-koeln.de<br>
+Thomas Oehlke: toehlke@smail.uni-koeln.de<br>
+Liana Willach: liana86@web.de<br>
 
 
-Forschungsprojekt: Emotionserkennung in Szenen/Personen
-Database: https://arachne.dainst.org/category/?c=relief
+Forschungsprojekt: Emotionserkennung in Szenen/Personen<br>
+Database: https://arachne.dainst.org/category/?c=relief<br>
 
 
 Charles Darwin behauptete, dass bestimmte Emotionen (basic emotions) spezifisch evolutionäre Funktionen hätten, die zum Überleben dienten. Deshalb seien diese Emotionen allgemein in allen menschlichen Wesen zu finden (vgl. Darwin,1872).
@@ -19,7 +19,7 @@ Als Methoden werden wir supervised machine learning Algorithmen benutzen, weil d
 Für einige Beispiele sind die richtigen Ergebnisse (Targets) bekannt und während des Lernprozesses in das Modell eingegeben. Diese Methode ermöglicht Generalisierung, d.h.,  das richtige Ergebnis wird ausgegeben, auch wenn neue Eingaben die das Ziel nicht kennen, eingeführt werden.
 
 
-Literatur:
+Literatur:<br>
 Darwin, Charles. The Expression of Emotion in Man and Animals. Watts, 1948.
 
 
